@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Aditya Kumar
 
+### Python Developer | Django Developer | Data Analytics Enthusiast
+
 I am a **Python & Data Analytics Enthusiast** with a strong foundation in building web applications, designing REST APIs, and performing data-driven business intelligence. Skilled in Python, Django, SQL, and Power BI, I enjoy writing clean, maintainable code and solving complex problems to deliver high-impact software solutions.
 
 ---
